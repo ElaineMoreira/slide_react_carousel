@@ -4,7 +4,7 @@ import { Carousel } from 'react-bootstrap';
 const CarouselContainer = () => {
   return(
     <Carousel>
-  <Carousel.Item interval={1000}>
+  <Carousel.Item interval={2000}>
     <img
       className="d-block w-100"
       src="holder.js/800x400?text=First slide&bg=373940"
@@ -15,7 +15,7 @@ const CarouselContainer = () => {
       <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
     </Carousel.Caption>
   </Carousel.Item>
-  <Carousel.Item interval={500}>
+  <Carousel.Item interval={1000}>
     <img
       className="d-block w-100"
       src="holder.js/800x400?text=Second slide&bg=282c34"

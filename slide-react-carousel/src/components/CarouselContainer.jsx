@@ -7,8 +7,8 @@ const CarouselContainer = () => {
   <Carousel.Item interval={2000}>
     <img
       className="d-block w-100"
-      src="holder.js/800x400?text=First slide&bg=373940"
-      alt="First slide"
+      src="https://mocah.org/mocahbig/80787-ubuntu-linux-computer-hd-4k.jpg"
+      alt="Second slide"
     />
     <Carousel.Caption>
       <h3>First slide label</h3>
@@ -18,7 +18,7 @@ const CarouselContainer = () => {
   <Carousel.Item interval={1000}>
     <img
       className="d-block w-100"
-      src="holder.js/800x400?text=Second slide&bg=282c34"
+      src="https://mocah.org/mocahbig/80787-ubuntu-linux-computer-hd-4k.jpg"
       alt="Second slide"
     />
     <Carousel.Caption>
@@ -29,7 +29,7 @@ const CarouselContainer = () => {
   <Carousel.Item>
     <img
       className="d-block w-100"
-      src="holder.js/800x400?text=Third slide&bg=20232a"
+      src="https://mocah.org/mocahbig/80787-ubuntu-linux-computer-hd-4k.jpg"
       alt="Third slide"
     />
     <Carousel.Caption>

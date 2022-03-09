@@ -5,7 +5,7 @@ const CarouselContainer = () => {
   return(
 <Carousel>
 
-  <Carousel.Item interval={5000}>
+  <Carousel.Item >
     <img
       className="d-block w-100"
       src="https://github.com/ElaineMoreira/slide_react_carousel/blob/main/slide-react-carousel/images/slide01.png?raw=true"
@@ -15,7 +15,7 @@ const CarouselContainer = () => {
     </Carousel.Caption>
   </Carousel.Item>
 
-  <Carousel.Item interval={5000}>
+  <Carousel.Item >
     <img
       className="d-block w-100"
       src="https://github.com/ElaineMoreira/slide_react_carousel/blob/main/slide-react-carousel/images/slide02.png?raw=true"
